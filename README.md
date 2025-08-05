@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Hey there! I'm James
 
-<!--
-**james97n/james97n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Full Stack Software Engineer**  
+🧠 TypeScript • React • Node.js • Django • Python  
+📍 Currently in Kuala Lumpur → 🚀 Eyeing Japan for my next adventure  
+🇨🇳 Native Chinese | 🇺🇸 Fluent in English | 🇯🇵 Conversational level in Japanese
+🎸 Learning guitar | 🎒 Exploring the world | 🧭 Finding my purpose (while writing clean code)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I build **scalable full stack applications**, obsess over **developer experience**, and love making UIs that don’t just work — they *feel* good.
+
+When I’m not squashing bugs or reading through yet another RFC, I’m probably:
+- 🎧 Jamming out on guitar (badly)
+- 🛫 Planning my next country to explore
+- 🤓 Researching AI things
+
+---
+
+### 💼 What I’m Open To
+- **Remote-friendly full stack roles**
+- **Back-end work with Node/TypeScript//Django/PHP/NestJS/Laravel/Golang/etc**
+- **Front-end work with React/Vue/NestJS/TypeScript etc**
+- **AI, productivity apps, games etc**
