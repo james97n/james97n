@@ -2,7 +2,7 @@
 
 🎯 **Full Stack Software Engineer**  
 🧠 TypeScript • React • Node.js • Django • Python  
-📍 Currently in Kuala Lumpur → 🚀 Eyeing Japan for my next adventure  
+📍 Currently in Kuala Lumpur
 🇺🇸 🇨🇳 Fluent in English & Chinese | 🇯🇵 Conversational in Japanese  
 🎸 Learning guitar | 🎒 Exploring the world | 🧭 Finding my purpose (while writing clean code)
 
