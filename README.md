@@ -2,9 +2,9 @@
 
 ### About me:
 
-🎯 Full-Stack Software Engineer ( more than 5 years of work experience )   
-🧠 TypeScript • Node.js • React • Vue • Django • Python • PHP • Flutter  
-🌏 Fluent in English & Chinese | Conversational in Japanese & Malay   
+- 🎯 Full-Stack Software Engineer ( more than 5 years of work experience )   
+- 🧠 TypeScript / JavaScript • Node.js • React • Vue • Python • Django • PHP • Laravel • Flutter  
+- 🌏 Fluent in English & Chinese | Conversational in Japanese & Malay   
 
 ---
 
