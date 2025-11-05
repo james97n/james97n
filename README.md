@@ -4,7 +4,7 @@
 
 - 🎯 Full-Stack Software Engineer ( more than 5 years of work experience )   
 - 🧠 TypeScript / JavaScript • Node.js • React • Vue • Python • Django • PHP • Laravel • Flutter  
-- 🌏 Fluent in English & Chinese | Conversational in Japanese & Malay   
+- 🌏 Fluent in English & Chinese  |  Conversational in Japanese & Malay   
 
 ---
 
@@ -17,7 +17,7 @@ When I’m not squashing bugs or reading through yet another RFC, I’m probably
 
 ### What I’m Open To:
 - Remote-friendly full stack roles
-- AI, productivity apps, games etc
+- Building SaaS, AI, Game etc
   
 ---
 
