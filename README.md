@@ -22,3 +22,7 @@ When I’m not squashing bugs or reading through yet another RFC, I’m probably
 - **Back-end work with Node/TypeScript//Django/PHP/NestJS/Laravel/Golang etc**
 - **Front-end work with React/Vue/NestJS/TypeScript etc**
 - **AI, productivity apps, games etc**
+  
+---
+
+Contact: james97programmer@gmail.com
