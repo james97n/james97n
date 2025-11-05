@@ -1,14 +1,12 @@
-# 👋 Hey there! I'm James
+# 👋 Bonjour! 
 
-🎯 **Full Stack Software Engineer**  
-🧠 TypeScript • React • Node.js • Django • Python  
-📍 Currently in Kuala Lumpur
-🇺🇸 🇨🇳 Fluent in English & Chinese | 🇯🇵 Conversational in Japanese  
-🎸 Learning guitar | 🎒 Exploring the world | 🧭 Finding my purpose (while writing clean code)
+### About me:
+
+🎯 Full-Stack Software Engineer ( more than 5 years of work experience )   
+🧠 TypeScript • Node.js • React • Vue • Django • Python • PHP • Flutter  
+🌏 Fluent in English & Chinese | Conversational in Japanese & Malay   
 
 ---
-
-I build **scalable full stack applications**, obsess over **developer experience**, and love making UIs that don’t just work — they *feel* good.
 
 When I’m not squashing bugs or reading through yet another RFC, I’m probably:
 - 🎧 Jamming out on guitar (badly)
@@ -17,11 +15,9 @@ When I’m not squashing bugs or reading through yet another RFC, I’m probably
 
 ---
 
-### 💼 What I’m Open To
-- **Remote-friendly full stack roles**
-- **Back-end work with Node/TypeScript//Django/PHP/NestJS/Laravel/Golang etc**
-- **Front-end work with React/Vue/NestJS/TypeScript etc**
-- **AI, productivity apps, games etc**
+### What I’m Open To:
+- Remote-friendly full stack roles
+- AI, productivity apps, games etc
   
 ---
 
