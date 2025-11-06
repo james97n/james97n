@@ -16,8 +16,9 @@ When I’m not squashing bugs or reading through yet another RFC, I’m probably
 ---
 
 ### What I’m Open To:
-- Remote-friendly full stack roles
-- Building SaaS, AI, Game etc
+- Full-stack roles, or positions with a backend or frontend focus  
+- Remote-friendly opportunities  
+- Both part-time and full-time engagements
   
 ---
 
